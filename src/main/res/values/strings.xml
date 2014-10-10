@@ -9,5 +9,6 @@
     <string name="id_value">this is id value</string>
     <string name="content_value">this is a content value</string>
     <string name="action_refresh">refresh</string>
+    <string name="content_text">this is a text value</string>
 
 </resources>
